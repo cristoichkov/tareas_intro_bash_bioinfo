@@ -16,9 +16,3 @@ AMAS.py convert \
   -f phylip -d dna -u nexus
 ```
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-> Nota 
